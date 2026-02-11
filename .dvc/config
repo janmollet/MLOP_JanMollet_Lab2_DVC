@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://bucket1-dvc_lab1_mlops
+    credentialpath = C:\Users\jan10\OneDrive\Escritorio\Escriptori\NORTHEASTERN\MLOps\JSON_PRIVATE_DVC_GCP\dvc-lab-1-mlops-de423a3b6171.json
